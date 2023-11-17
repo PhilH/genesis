@@ -17,14 +17,14 @@ to be prepared against all contingencies.
 Recent times have seen the Cosmos community grappling with significant
 challenges stemming from differences about core tokenomics, about the very
 nature of the $ATOM token (whether it is staking or monetary), about
-monetizations trategy and what types of projects to fund; and there generally
+monetization strategy and what types of projects to fund; and there generally
 appears to be a great cultural chasm that shows no sign of closing about our
 role and responsibilities as compared to our profit interests.
 
 These have now made clear the need for a new hub with a renewed focus and
 alignment to serve as the canonical minimal IBC/ICS token hub with respect to
 Cosmos, and secondarily to serve as the main base for a political party with
-respect to Gaia to champion the ideals of security and minimalsim everywhere.
+respect to Gaia to champion the ideals of security and minimalism everywhere.
 
 ### Vision and Missions
 The vision behind this AtomOne fork is to be an alternative minimal fork of
@@ -55,8 +55,8 @@ specialized zones in cooperation and coopetition with each other despite
 irreconciliable differences. AtomOne will be a base for many more partyhubs,
 and itself function as a partyhub in relation to Gaia.
 
-Operating as a "political party base", This fork will serve as a political
-party base for ideation, discussion, and collective decision-making in regards
+Operating as a "political party base", this fork will serve as a political
+party base for ideation, discussion, and collective decision-making in regard
 to its associations especially Gaia. It aims to empower community members to
 actively participate in governance about Gaia and AtomOne and influence the
 future trajectory of both ecosystems. This approach is expected to bring a more
@@ -159,7 +159,7 @@ In particular, the hub's root chain lacks a complex VM implementation, but
 rather requires VMs to live on other non-root shards. This is the best way to
 scale to billions of users while providing specialization and isolation. For
 example, your home internet WIFI network is provided by a minimal router
-hardware, while your backup harddrives and your desktop computer are separate
+hardware, while your backup hard drives and your desktop computer are separate
 machines that only connect to the router.
 
 Any fixed functionality that could run on alternative VMs should be translated
@@ -294,7 +294,7 @@ milestones, with an emphasis on completion and even potential phase-out.
 
 It should be some distribution of the Cosmos Hub $ATOM1 token with those who
 voted against the spirit of this project slashed because they never joined to
-use the system int he first place (e.g. they were more interested in price
+use the system in the first place (e.g. they were more interested in price
 appreciation of original $ATOM).
 
 Additionally, the Interchain Foundation playing a key role in the evolution of
@@ -356,7 +356,7 @@ The inflation will target 2/3 of $ATOM1 to be bonded.
 
 ### ICS Fee Distribution
 Every ICS zone should be paid for somehow. AtomOne owned ICS shards should be
-paid for from the treasury of AtomOne.  Other ICS "consumer chains" can be paid
+paid for from the treasury of AtomOne. Other ICS "consumer chains" can be paid
 for by the the chain itself, and in emergencies anyone can step in and pay on
 the zone's behalf.
 
